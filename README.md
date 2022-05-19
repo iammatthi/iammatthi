@@ -8,17 +8,17 @@
 <p align="center">
   &nbsp;
   &nbsp;
-  <a href= "https://matthiasberchtold.com/">
+  <a href= "https://matthiasberchtold.com/" target="_blank">
     <img src="https://img.icons8.com/ios/50/C6D57E/domain.png" width="50px"/>
   </a>
   &nbsp;
   &nbsp;
-  <a href= "https://www.linkedin.com/in/matthias-berchtold/">
+  <a href= "https://www.linkedin.com/in/matthias-berchtold/" target="_blank">
     <img src="https://img.icons8.com/ios/50/D57E7E/linkedin-circled--v1.png" width="50px"/>
   </a>
   &nbsp;
   &nbsp;
-  <a href= "mailto:contact@matthiasberchtold.com">
+  <a href= "mailto:contact@matthiasberchtold.com" target="_blank">
     <img src="https://img.icons8.com/ios/50/A2CDCD/email-sign.png" width="50px"/>
   </a> 
 </p>
